@@ -1,0 +1,2 @@
+ren Windows_10_Extras Windows_10_Extras.7z
+ren Windows_10_Themes Windows_10_Themes.7z

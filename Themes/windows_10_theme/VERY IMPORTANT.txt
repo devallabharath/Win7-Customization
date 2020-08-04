@@ -1,0 +1,45 @@
+READ VERY CAREFULLY, IT'S NOT STANDARD INSTALLATION
+
+Windows 10 Theme for Windows 7 by mare-m
+
+How to install theme
+
+1.Download Universal Theme Patcher from this address:
+http://www.mediafire.com/download/b2clehjn848ab2v/UniversalThemePatcher_20090409.zip
+follow instructions from zip file and patch your system.
+
+2. Download Theme Resource Changer from this address:
+http://www.mediafire.com/download/2a5hb51a0adc3i7/Theme_Resource_Changer%28x86_%26_x64%29.zip
+install this tool to get start menu button and white task pane.
+
+3.Run "RunMeFirst" file.
+
+4.Extract "Windows 10 Themes" archive.
+
+5.Copy theme files and corresponding folder from:
+
+"Default Taskbar With Start Menu User Picture" OR "Default Taskbar Without Start Menu User Picture" OR "Small Taskbar With Start Menu User Picture" OR "Small Taskbar Without Start Menu User Picture"
+
+depending which theme you want to use to: 
+
+"C:\Windows\Resources\Themes" folder.
+
+6.Apply theme from personalize or double click on the theme file.
+
+7.Download Windows 7 Aero Blur Tweaker from this address:
+http://www.mediafire.com/download/l3ah35y6no20726/Windows_7_Aero_Blur_Tweaker.zip
+run the tool as administrator and then click on "Hide Blur" to remove blur effect from window borders.
+
+8.To remove taskbar hot tracking animation go to "System Properties/Advanced system settings/Advanced/Performance/Settings" and then uncheck "Animations in the taskbar and Start Menu".
+
+9.To get transparent start menu and taskbar use Taskbar Transizer. You can download Taskbar Transizer from this address:
+http://www.mediafire.com/download/26m3i84wdwq3lwl/pxtaskbartransizer-1.zip
+Run the tool as administrator and set start menu and taskbar transparency to value you want (recommended values for start menu and taskbar is 95).
+
+All you are doing, doing at your own risk. For the possible consequences i am not responsible.
+
+Tested and working on Windows 7 Service Pack 1 EN-US 32-bit and 64-bit.
+
+Enjoy in theme!!!
+
+http://mare-m.deviantart.com/

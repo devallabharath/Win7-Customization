@@ -1,0 +1,5 @@
+1. replace c:\windows\system32\authui.dll with matching one from package
+
+2. Apply background
+
+3. Install font from package
